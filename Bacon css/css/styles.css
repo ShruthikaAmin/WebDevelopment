@@ -28,6 +28,10 @@ img:hover
 {
   border-radius: 100%;
 }
+.headingab
+{
+  color:yellow;
+}
 
 /*********************************************ID SELECTORS********************************/
 #heading
